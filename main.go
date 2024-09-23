@@ -87,4 +87,8 @@ func main() {
 	for data := range c {
 		fmt.Println(data)
 	}
+	fmt.Print('1')
+	fmt.Print('1')
+	fmt.Print('1')
+	fmt.Print('1')
 }
